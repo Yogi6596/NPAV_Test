@@ -1,0 +1,3 @@
+ Engineering:  600000
+ Testing:  350000
+ Manager:  2200000
